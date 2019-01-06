@@ -1,0 +1,5 @@
+/home/pi/Desktop/HeyNavi/NaviSounds/Hello.ogg
+/home/pi/Desktop/HeyNavi/NaviSounds/Hey.ogg
+/home/pi/Desktop/HeyNavi/NaviSounds/Listen.ogg
+/home/pi/Desktop/HeyNavi/NaviSounds/Look.ogg
+/home/pi/Desktop/HeyNavi/NaviSounds/WatchOut.ogg
